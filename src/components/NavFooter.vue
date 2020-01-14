@@ -6,7 +6,7 @@
 * @version V1.0.0
 !-->
 <template>
-  <div></div>
+  <div>footer</div>
 </template>
 
 <script>

@@ -1,17 +1,17 @@
 <!--
 * @description 
-* @fileName NavHeader.vue
+* @fileName OrderHeader.vue
 * @author Luke
-* @date 2020/01/13 20:19:56
+* @date 2020/01/13 23:08:06
 * @version V1.0.0
 !-->
 <template>
-  <div>header</div>
+  <div>order-header</div>
 </template>
 
 <script>
 export default {
-    name: 'nav-header',
+  name:'order-header',
   data () {
     return {
     }

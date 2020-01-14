@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <router-view></router-view>//显示所有子页面
+    <router-view></router-view>
+    <!-- 显示所有子页面 -->
   </div>
 </template>
 

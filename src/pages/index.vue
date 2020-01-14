@@ -1,17 +1,17 @@
 <!--
-* @description 
+* @description
 * @fileName index.vue
 * @author Luke
 * @date 2020/01/13 20:29:23
 * @version V1.0.0
 !-->
 <template>
-  <div></div>
+  <div>index</div>
 </template>
 
 <script>
 export default {
-  name:'',
+  name:'index',
   data () {
     return {
     }
